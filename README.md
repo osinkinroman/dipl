@@ -1,4 +1,6 @@
 Для установки:
+node 14.0.0 и выше
+python использовался 3.9
 в папке stockprediction 
 pip install streamlit fbprophet yfinance plotly
 
